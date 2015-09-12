@@ -1,0 +1,17 @@
+{
+  "msg": [
+    {
+      "permissionId": 1,
+      "permissionName": "报表",
+      "createdBy": "系统",
+      "updateTime": "2015-07-06 00:00:00.0"
+    },
+    {
+      "permissionId": 2,
+      "permissionName": "拜访",
+      "createdBy": "系统",
+      "updateTime": "2015-07-06 00:00:00.0"
+    }
+  ],
+  "code": 200
+}

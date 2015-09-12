@@ -1,0 +1,33 @@
+{
+  "name": "apollo-menu-static",
+  "version": "0.1.0",
+  "description": "",
+  "css": "./dist/entry.css",
+  "devDependencies": {
+    "assert": "*"
+  },
+  "dependencies": {
+    "redux": "^1.0.1",
+    "react": "~0.13.7",
+    "react/addons":"~0.13.7"
+  },
+  "repository": "git://github.com/roderickWang/counter.git",
+  "keywords": [
+    "orlitia"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "roderick.wang",
+    "email": "roderickwang@hotmail.com"
+  },
+  "bugs": {
+    "url": "http://github.com/roderickWang/counter/issues"
+  },
+  "homepage": "http://github.com/roderickWang/counter",
+  "directories": {
+    "src": "dist"
+  },
+  "scripts": {
+    "prebuild": "./node_modules/.bin/gulp"
+  }
+}

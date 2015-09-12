@@ -1,0 +1,30 @@
+{
+    "msg": {
+        "users": [
+            {
+                "employeeId": "0016004",
+                "loginId": -12345,
+                "employeeName": "陈孝杰",
+                "organizationName": "交易基础产品",
+                "managerEmployeeName": "黄亿华",
+                "isSales": false,
+                "entryDate": "2015-07-06 00:00:00.0",
+                "isTerminated": false,
+                "terminationDate": null
+            },
+            {
+                "employeeId": "0016005",
+                "loginId": -12345,
+                "employeeName": "陈孝杰",
+                "organizationName": "交易基础产品",
+                "managerEmployeeName": "黄亿华",
+                "isSales": false,
+                "entryDate": "2015-07-06 00:00:00.0",
+                "isTerminated": false,
+                "terminationDate": null
+            }
+        ],
+        "totalCount": 20
+    },
+    "code": 200
+}

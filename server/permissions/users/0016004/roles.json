@@ -1,0 +1,17 @@
+{
+  "msg": [
+    {
+      "roleName": "交易平台销售",
+      "roleId": 1,
+      "createdBy": "系统",
+      "updateTime": "2015-07-06 00:00:00.0"
+    },
+    {
+      "roleName": "交易平台主管",
+      "roleId": 2,
+      "createdBy": "系统",
+      "updateTime": "2015-07-06 00:00:00.0"
+    }
+  ],
+  "code": 200
+}

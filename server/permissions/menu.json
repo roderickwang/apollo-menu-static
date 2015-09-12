@@ -1,0 +1,110 @@
+{
+  "msg": {
+    "tree": [
+      {
+        "menuKey": 1,
+        "menuName": "客户管理",
+        "prerant": 0,
+        "describe": "客户管理",
+        "permissionIds": "1,2,3",
+        "URL": "http://123.com",
+        "children": [
+          {
+            "menuKey": 3,
+            "menuName": "方案管理",
+            "prerant": 1,
+            "describe": "描述",
+            "permissionIds": "1,2,3",
+            "URL": "http://123.com",
+            "children": [
+              {
+                "menuKey": 5,
+                "menuName": "创建方案",
+                "prerant": 3,
+                "describe": "描述",
+                "permissionIds": "1,2,3",
+                "URL": "http://123.com",
+                "children": []
+              },
+              {
+                "menuKey": 5,
+                "menuName": "修改方案",
+                "prerant": 3,
+                "describe": "描述",
+                "permissionIds": "1,2,3",
+                "URL": "http://123.com",
+                "children": []
+              }
+            ]
+          },
+          {
+            "menuKey": 4,
+            "describe": 2,
+            "menuName": "责任人管理",
+            "prerant": 0,
+            "describe": "描述",
+            "permissionIds": "1,2,3",
+            "URL": "http://123.com",
+            "children": [
+              {
+                "menuKey": 5,
+                "menuName": "创建责任人",
+                "prerant": 3,
+                "describe": "描述",
+                "permissionIds": "1,2,3",
+                "URL": "http://123.com",
+                "children": []
+              },
+              {
+                "menuKey": 5,
+                "menuName": "管理责任人",
+                "prerant": 3,
+                "describe": "描述",
+                "permissionIds": "1,2,3",
+                "URL": "http://123.com",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "menuKey": 2,
+        "menuName": "方案管理",
+        "prerant": 0,
+        "describe": 1,
+        "permissionIds": "1,2,3",
+        "URL": "http://123.com",
+        "children": []
+      },
+      {
+        "menuKey": 3,
+        "menuName": "仪表盘",
+        "prerant": 0,
+        "describe": 1,
+        "permissionIds": "1,2,3",
+        "URL": "http://123.com",
+        "children": []
+      },
+      {
+        "menuKey": 4,
+        "menuName": "工具箱",
+        "prerant": 0,
+        "describe": 1,
+        "permissionIds": "1,2,3",
+        "URL": "http://123.com",
+        "children": []
+      },
+      {
+        "menuKey": 5,
+        "menuName": "流程中心",
+        "prerant": 0,
+        "describe": 1,
+        "permissionIds": "1,2,3",
+        "URL": "http://123.com",
+        "children": []
+      }
+    ]
+  },
+  "code": 200
+}
